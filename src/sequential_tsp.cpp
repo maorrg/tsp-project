@@ -40,6 +40,7 @@ void TSP::sequential() {
     ansTSP[N] = cheapestTrip->nodes[0];
     printObtainedResults(cheapestTrip);
     auto finalTime = chrono::duration_cast<chrono::nanoseconds>(stopTime - startTime).count();
-    validateResult(ansTSP, expectedTrip, cheapestTrip->totalCost, expectedCost);
+    validateResult(ansTSP, expectedTrip, n, cheapestTrip->totalCost, expectedCost);
     printSequentialTime(finalTime);
+    writeObtainedResultsSequential("sequential_times.csv",finalTime,n);
 }

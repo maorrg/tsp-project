@@ -1,0 +1,364 @@
+---------- MATRIZ DE  5 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 5
+El mejor Trip (recorrido) esperado: [ 0 2 1 3 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 115
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 2 1 3 4 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 115
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 134185 nanosegundos (ns)
+El tiempo tomado es: 0.134185 milisegundos (ms)
+El tiempo tomado es: 0.000134185 segundos (s)
+Archivo leido: ../data/matrix_6.txt
+
+
+
+---------- MATRIZ DE  6 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 6
+El mejor Trip (recorrido) esperado: [ 0 2 3 1 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 240
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 2 3 1 4 5 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 240
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 737932 nanosegundos (ns)
+El tiempo tomado es: 0.737932 milisegundos (ms)
+El tiempo tomado es: 0.000737932 segundos (s)
+Archivo leido: ../data/matrix_7.txt
+
+
+
+---------- MATRIZ DE  7 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 7
+El mejor Trip (recorrido) esperado: [ 0 1 6 2 3 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 214
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 1 6 2 3 4 5 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 214
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 1994542 nanosegundos (ns)
+El tiempo tomado es: 1.994542 milisegundos (ms)
+El tiempo tomado es: 0.001994542 segundos (s)
+Archivo leido: ../data/matrix_8.txt
+
+
+
+---------- MATRIZ DE  8 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 8
+El mejor Trip (recorrido) esperado: [ 0 4 6 2 5 1 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 205
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 4 6 2 5 1 3 7 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 205
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 6484731 nanosegundos (ns)
+El tiempo tomado es: 6.484731 milisegundos (ms)
+El tiempo tomado es: 0.006484731 segundos (s)
+Archivo leido: ../data/matrix_9.txt
+
+
+
+---------- MATRIZ DE  9 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 9
+El mejor Trip (recorrido) esperado: [ 0 1 4 3 7 2 8 6 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 211
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 1 4 3 7 2 8 6 5 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 211
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 6338853 nanosegundos (ns)
+El tiempo tomado es: 6.338853 milisegundos (ms)
+El tiempo tomado es: 0.006338853 segundos (s)
+Archivo leido: ../data/matrix_10.txt
+
+
+
+---------- MATRIZ DE  10 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 10
+El mejor Trip (recorrido) esperado: [ 0 2 1 8 4 7 3 5 9 6 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 220
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 2 1 8 4 7 3 5 9 6 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 220
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 18449498 nanosegundos (ns)
+El tiempo tomado es: 18.449498 milisegundos (ms)
+El tiempo tomado es: 0.018449498 segundos (s)
+Archivo leido: ../data/matrix_11.txt
+
+
+
+---------- MATRIZ DE  11 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 11
+El mejor Trip (recorrido) esperado: [ 0 3 8 9 5 10 6 7 2 1 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 182
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 3 8 9 5 10 6 7 2 1 4 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 182
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 23651780 nanosegundos (ns)
+El tiempo tomado es: 23.651780 milisegundos (ms)
+El tiempo tomado es: 0.023651780 segundos (s)
+Archivo leido: ../data/matrix_12.txt
+
+
+
+---------- MATRIZ DE  12 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 12
+El mejor Trip (recorrido) esperado: [ 0 4 11 2 6 1 9 8 3 7 10 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 181
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 4 11 2 6 1 9 8 3 7 10 5 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 181
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 175117632 nanosegundos (ns)
+El tiempo tomado es: 175.117632 milisegundos (ms)
+El tiempo tomado es: 0.175117632 segundos (s)
+Archivo leido: ../data/matrix_13.txt
+
+
+
+---------- MATRIZ DE  13 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 13
+El mejor Trip (recorrido) esperado: [ 0 6 4 9 11 8 5 10 3 1 7 2 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 163
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 6 4 9 11 8 5 10 3 1 7 2 12 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 163
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 451320415 nanosegundos (ns)
+El tiempo tomado es: 451.320415 milisegundos (ms)
+El tiempo tomado es: 0.451320415 segundos (s)
+Archivo leido: ../data/matrix_14.txt
+
+
+
+---------- MATRIZ DE  14 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 14
+El mejor Trip (recorrido) esperado: [ 0 1 11 6 4 2 13 10 12 9 5 8 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 185
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 1 11 6 4 2 13 10 12 9 5 8 3 7 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 185
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 994396018 nanosegundos (ns)
+El tiempo tomado es: 994.396018 milisegundos (ms)
+El tiempo tomado es: 0.994396018 segundos (s)
+Archivo leido: ../data/matrix_15.txt
+
+
+
+---------- MATRIZ DE  15 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 15
+El mejor Trip (recorrido) esperado: [ 0 13 7 12 9 10 5 11 3 4 6 2 1 8 14 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 223
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 13 7 12 9 10 5 11 3 4 6 2 1 8 14 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 223
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 14984132147 nanosegundos (ns)
+El tiempo tomado es: 14984.132147 milisegundos (ms)
+El tiempo tomado es: 14.984132147 segundos (s)
+Archivo leido: ../data/matrix_16.txt
+
+
+
+---------- MATRIZ DE  16 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 16
+El mejor Trip (recorrido) esperado: [ 0 10 12 9 2 7 3 5 4 1 6 14 8 15 13 11 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 206
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 10 12 9 2 7 3 5 4 1 6 14 8 15 13 11 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 206
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 55871332041 nanosegundos (ns)
+El tiempo tomado es: 55871.332041 milisegundos (ms)
+El tiempo tomado es: 55.871332041 segundos (s)
+Archivo leido: ../data/matrix_17.txt
+
+
+
+---------- MATRIZ DE  17 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 17
+El mejor Trip (recorrido) esperado: [ 0 1 9 6 14 2 10 8 7 11 15 3 16 13 4 5 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 329
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 1 9 6 14 2 10 8 7 11 15 3 16 13 4 5 12 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 329
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 662763343683 nanosegundos (ns)
+El tiempo tomado es: 662763.343683 milisegundos (ms)
+El tiempo tomado es: 662.763343683 segundos (s)
+Archivo leido: ../data/matrix_18.txt
+
+
+
+---------- MATRIZ DE  18 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 18
+El mejor Trip (recorrido) esperado: [ 0 11 15 5 2 8 10 16 12 17 9 3 7 14 1 6 4 13 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 203
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 11 15 5 2 8 10 16 12 17 9 3 7 14 1 6 4 13 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 203
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 159172794033 nanosegundos (ns)
+El tiempo tomado es: 159172.794033 milisegundos (ms)
+El tiempo tomado es: 159.172794033 segundos (s)
+Archivo leido: ../data/matrix_19.txt
+
+
+
+---------- MATRIZ DE  19 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 19
+El mejor Trip (recorrido) esperado: [ 0 4 12 2 17 8 6 5 7 13 10 16 1 11 18 3 14 9 15 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 210
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 4 12 2 17 8 6 5 7 13 10 16 1 11 18 3 14 9 15 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 210
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 2035493224027 nanosegundos (ns)
+El tiempo tomado es: 2035493.224027 milisegundos (ms)
+El tiempo tomado es: 2035.493224027 segundos (s)
+Archivo leido: ../data/matrix_20.txt
+
+
+
+---------- MATRIZ DE  20 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 20
+El mejor Trip (recorrido) esperado: [ 0 5 1 2 3 9 19 17 16 18 4 15 14 13 6 11 10 12 8 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 151
+
+---------- RESULTADOS OBTENIDOS ----------
+El mejor Trip (recorrido) obtenido: [ 0 5 1 2 3 9 19 17 16 18 4 15 14 13 6 11 10 12 8 7 0 ]
+El mejor totalCost (costo mínimo de viaje) obtenido: 151
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 109600569520 nanosegundos (ns)
+El tiempo tomado es: 109600.569520 milisegundos (ms)
+El tiempo tomado es: 109.600569520 segundos (s)

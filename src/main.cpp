@@ -1,6 +1,8 @@
 #include "tsp.h"
 
 int main(){
-    TSP tsp("../data/matrix_20.txt");
-    tsp.sequential();
+    for(int i=5; i <=20; i++){
+        TSP tsp("../data/matrix_"+std::to_string(i)+".txt");
+        tsp.sequential();
+    }
 }

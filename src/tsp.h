@@ -1,10 +1,12 @@
+#include <string>
+
 class TSP {
 private:
-    const char * matrixFile;
+    std::string matrixFile;
 public:
-    TSP(const char * matrixFile){
+    TSP(std::string matrixFile){
         this->matrixFile = matrixFile;
     }
     void sequential();
-    void parallel(); //compilar independientemente
+    void parallel();
 };

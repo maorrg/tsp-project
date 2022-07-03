@@ -6,6 +6,7 @@
 #include <chrono>
 #include <iomanip>
 #include <vector>
+#include <fstream>
 
 using namespace std;
 
@@ -14,14 +15,15 @@ struct Trip {
     int totalCost;
 };
 
-#define N 20
+#define N 110
 
-void read(const char *filename, int *n, int *cost, int costMatrix[][N], int result[N+1]){
-    cout << "Archivo leido: " << filename << endl;
-    freopen(filename, "r", stdin);
+void read(string filename, int *n, int *cost, int costMatrix[][N], int result[N+1]){
+    const char * charFileName = filename.c_str();
+    freopen(charFileName, "r", stdin);
 
     cin >> *n;
-
+    cout << "Archivo leido: " << filename << endl;
+    cout << "\n\n\n---------- MATRIZ DE  " << *n <<" NODOS ---------- " << endl;
     for (size_t i = 0; i <= *n; i++) {
         cin >> result[i];
     }
@@ -52,6 +54,19 @@ void printSequentialTime(double time) {
     cout << "El tiempo tomado es: " << time * pow(10, -9) << " segundos (s)" << endl;
 }
 
+void writeObtainedResultsParallel(string fileName, double time, const char* numberOfThreads,int n) {
+    std::ofstream outfile;
+    outfile.open("../results/"+fileName, std::ios_base::app);
+    outfile << endl << to_string(time * pow(10, -6)) << "," << numberOfThreads << "," << to_string(n);
+}
+
+void writeObtainedResultsSequential(string fileName, double time, int n) {
+    std::ofstream outfile;
+    cout << fixed << setprecision(6);
+    outfile.open("../results/"+fileName, std::ios_base::app);
+    outfile << endl << to_string(time * pow(10, -6)) << "," << to_string(n);
+}
+
 void printParallelTime(double time) {
     cout << "\n--------------- TIEMPOS --------------- " << endl;
     cout << fixed << setprecision(0);
@@ -72,11 +87,11 @@ void printObtainedResults(Trip *cheapestTrip){
     cout << "\nEl mejor totalCost (costo mínimo de viaje) obtenido: " << cheapestTrip->totalCost << endl;
 }
 
-void validateResult(int result[], int resultToCompare[], int cost, int costToCompare){
+void validateResult(int result[], int resultToCompare[], int n, int cost, int costToCompare){
     bool isPathCorrect = true;
     bool isCostCorrect = true;
 
-    for(int i=0; i < N; i++){
+    for(int i=0; i < n; i++){
         if(result[i] != resultToCompare[i]){
             isPathCorrect = false;
         }
