@@ -1,5 +1,5 @@
 #include "tsp.h"
-#include "utils/tsp_functions.h"
+#include "tsp_utils/tsp_functions.h"
 
 void TSP::sequential() {
     int expectedTrip[N+1];
