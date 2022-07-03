@@ -1,0 +1,6 @@
+number_of_nodes ans_nodo_a_visitar_1 ans_nodo_a_visitar_2 ... ans_nodo_a_visitar_n ans_costo_optimo
+elemento_ma_00 elemento_ma_01 ... elemento_ma_02
+.
+.
+.
+elemento_ma_n0 elemento_ma_n1 ... elemento_ma_nn
