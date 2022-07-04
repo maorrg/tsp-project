@@ -5,7 +5,6 @@ from python_tsp.exact import solve_tsp_dynamic_programming
 
 ROOT_DATA_PATH = "../../data"
 
-
 def create_matrix(n):
     matrix = np.array([[0 for x in range(n)] for y in range(n)])
     for i in range(n):
@@ -34,7 +33,6 @@ def list_to_string(list):
         ans += f'{str(e)} '
     ans += str(list[0])
     return ans
-
 
 def generate_single_input(n):
     matrix = create_matrix(n)
