@@ -1,0 +1,2308 @@
+---------- MATRIZ DE  5 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 5
+El mejor Trip (recorrido) esperado: [ 0 2 1 3 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 115
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 137333 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.000137333 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+
+---------- MATRIZ DE  5 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 5
+El mejor Trip (recorrido) esperado: [ 0 2 1 3 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 115
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 338223 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.000338223 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+
+---------- MATRIZ DE  5 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 5
+El mejor Trip (recorrido) esperado: [ 0 2 1 3 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 115
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 446895 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.000446895 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+
+---------- MATRIZ DE  5 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 5
+El mejor Trip (recorrido) esperado: [ 0 2 1 3 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 115
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 748598 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.000748598 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+
+---------- MATRIZ DE  5 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 5
+El mejor Trip (recorrido) esperado: [ 0 2 1 3 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 115
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 1437766 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.001437766 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+
+---------- MATRIZ DE  5 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 5
+El mejor Trip (recorrido) esperado: [ 0 2 1 3 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 115
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 2693700 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.002693700 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+
+---------- MATRIZ DE  5 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 5
+El mejor Trip (recorrido) esperado: [ 0 2 1 3 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 115
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 3905362 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.003905362 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  6 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 6
+El mejor Trip (recorrido) esperado: [ 0 2 3 1 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 240
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 695798 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.000695798 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+
+---------- MATRIZ DE  6 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 6
+El mejor Trip (recorrido) esperado: [ 0 2 3 1 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 240
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 686588 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.000686588 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+
+---------- MATRIZ DE  6 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 6
+El mejor Trip (recorrido) esperado: [ 0 2 3 1 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 240
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 710568 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.000710568 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+
+---------- MATRIZ DE  6 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 6
+El mejor Trip (recorrido) esperado: [ 0 2 3 1 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 240
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 850042 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.000850042 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+
+---------- MATRIZ DE  6 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 6
+El mejor Trip (recorrido) esperado: [ 0 2 3 1 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 240
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 1556312 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.001556312 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+
+---------- MATRIZ DE  6 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 6
+El mejor Trip (recorrido) esperado: [ 0 2 3 1 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 240
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 2590526 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.002590526 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+
+---------- MATRIZ DE  6 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 6
+El mejor Trip (recorrido) esperado: [ 0 2 3 1 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 240
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 3654816 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.003654816 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  7 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 7
+El mejor Trip (recorrido) esperado: [ 0 1 6 2 3 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 214
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 1991755 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.001991755 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_7.txt
+
+
+
+---------- MATRIZ DE  7 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 7
+El mejor Trip (recorrido) esperado: [ 0 1 6 2 3 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 214
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 1311608 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.001311608 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_7.txt
+
+
+
+---------- MATRIZ DE  7 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 7
+El mejor Trip (recorrido) esperado: [ 0 1 6 2 3 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 214
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 1162236 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.001162236 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_7.txt
+
+
+
+---------- MATRIZ DE  7 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 7
+El mejor Trip (recorrido) esperado: [ 0 1 6 2 3 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 214
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 1305944 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.001305944 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_7.txt
+
+
+
+---------- MATRIZ DE  7 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 7
+El mejor Trip (recorrido) esperado: [ 0 1 6 2 3 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 214
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 1829210 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.001829210 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_7.txt
+
+
+
+---------- MATRIZ DE  7 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 7
+El mejor Trip (recorrido) esperado: [ 0 1 6 2 3 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 214
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 3145191 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.003145191 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_7.txt
+
+
+
+---------- MATRIZ DE  7 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 7
+El mejor Trip (recorrido) esperado: [ 0 1 6 2 3 4 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 214
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 4013876 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.004013876 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  8 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 8
+El mejor Trip (recorrido) esperado: [ 0 4 6 2 5 1 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 205
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 9099400 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.009099400 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_8.txt
+
+
+
+---------- MATRIZ DE  8 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 8
+El mejor Trip (recorrido) esperado: [ 0 4 6 2 5 1 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 205
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 5288278 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.005288278 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_8.txt
+
+
+
+---------- MATRIZ DE  8 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 8
+El mejor Trip (recorrido) esperado: [ 0 4 6 2 5 1 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 205
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 3815977 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.003815977 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_8.txt
+
+
+
+---------- MATRIZ DE  8 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 8
+El mejor Trip (recorrido) esperado: [ 0 4 6 2 5 1 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 205
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 2877136 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.002877136 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_8.txt
+
+
+
+---------- MATRIZ DE  8 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 8
+El mejor Trip (recorrido) esperado: [ 0 4 6 2 5 1 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 205
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 3392049 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.003392049 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_8.txt
+
+
+
+---------- MATRIZ DE  8 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 8
+El mejor Trip (recorrido) esperado: [ 0 4 6 2 5 1 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 205
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 4837071 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.004837071 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_8.txt
+
+
+
+---------- MATRIZ DE  8 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 8
+El mejor Trip (recorrido) esperado: [ 0 4 6 2 5 1 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 205
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 5583591 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.005583591 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  9 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 9
+El mejor Trip (recorrido) esperado: [ 0 1 4 3 7 2 8 6 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 211
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 14086555 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.014086555 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_9.txt
+
+
+
+---------- MATRIZ DE  9 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 9
+El mejor Trip (recorrido) esperado: [ 0 1 4 3 7 2 8 6 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 211
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 9038208 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.009038208 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_9.txt
+
+
+
+---------- MATRIZ DE  9 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 9
+El mejor Trip (recorrido) esperado: [ 0 1 4 3 7 2 8 6 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 211
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 9669970 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.009669970 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_9.txt
+
+
+
+---------- MATRIZ DE  9 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 9
+El mejor Trip (recorrido) esperado: [ 0 1 4 3 7 2 8 6 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 211
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 8223665 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.008223665 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_9.txt
+
+
+
+---------- MATRIZ DE  9 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 9
+El mejor Trip (recorrido) esperado: [ 0 1 4 3 7 2 8 6 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 211
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 8249064 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.008249064 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_9.txt
+
+
+
+---------- MATRIZ DE  9 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 9
+El mejor Trip (recorrido) esperado: [ 0 1 4 3 7 2 8 6 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 211
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 9146880 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.009146880 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_9.txt
+
+
+
+---------- MATRIZ DE  9 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 9
+El mejor Trip (recorrido) esperado: [ 0 1 4 3 7 2 8 6 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 211
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 9170906 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.009170906 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  10 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 10
+El mejor Trip (recorrido) esperado: [ 0 2 1 8 4 7 3 5 9 6 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 220
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 38719639 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.038719639 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_10.txt
+
+
+
+---------- MATRIZ DE  10 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 10
+El mejor Trip (recorrido) esperado: [ 0 2 1 8 4 7 3 5 9 6 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 220
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 30117687 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.030117687 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_10.txt
+
+
+
+---------- MATRIZ DE  10 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 10
+El mejor Trip (recorrido) esperado: [ 0 2 1 8 4 7 3 5 9 6 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 220
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 21653252 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.021653252 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_10.txt
+
+
+
+---------- MATRIZ DE  10 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 10
+El mejor Trip (recorrido) esperado: [ 0 2 1 8 4 7 3 5 9 6 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 220
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 17991646 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.017991646 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_10.txt
+
+
+
+---------- MATRIZ DE  10 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 10
+El mejor Trip (recorrido) esperado: [ 0 2 1 8 4 7 3 5 9 6 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 220
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 18271117 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.018271117 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_10.txt
+
+
+
+---------- MATRIZ DE  10 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 10
+El mejor Trip (recorrido) esperado: [ 0 2 1 8 4 7 3 5 9 6 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 220
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 18245303 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.018245303 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_10.txt
+
+
+
+---------- MATRIZ DE  10 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 10
+El mejor Trip (recorrido) esperado: [ 0 2 1 8 4 7 3 5 9 6 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 220
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 18744505 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.018744505 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  11 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 11
+El mejor Trip (recorrido) esperado: [ 0 3 8 9 5 10 6 7 2 1 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 182
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 33787958 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.033787958 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_11.txt
+
+
+
+---------- MATRIZ DE  11 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 11
+El mejor Trip (recorrido) esperado: [ 0 3 8 9 5 10 6 7 2 1 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 182
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 22591757 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.022591757 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_11.txt
+
+
+
+---------- MATRIZ DE  11 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 11
+El mejor Trip (recorrido) esperado: [ 0 3 8 9 5 10 6 7 2 1 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 182
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 23200315 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.023200315 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_11.txt
+
+
+
+---------- MATRIZ DE  11 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 11
+El mejor Trip (recorrido) esperado: [ 0 3 8 9 5 10 6 7 2 1 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 182
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 18614125 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.018614125 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_11.txt
+
+
+
+---------- MATRIZ DE  11 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 11
+El mejor Trip (recorrido) esperado: [ 0 3 8 9 5 10 6 7 2 1 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 182
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 15690345 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.015690345 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_11.txt
+
+
+
+---------- MATRIZ DE  11 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 11
+El mejor Trip (recorrido) esperado: [ 0 3 8 9 5 10 6 7 2 1 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 182
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 17263968 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.017263968 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_11.txt
+
+
+
+---------- MATRIZ DE  11 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 11
+El mejor Trip (recorrido) esperado: [ 0 3 8 9 5 10 6 7 2 1 4 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 182
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 16081132 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.016081132 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  12 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 12
+El mejor Trip (recorrido) esperado: [ 0 4 11 2 6 1 9 8 3 7 10 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 181
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 224961933 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.224961933 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_12.txt
+
+
+
+---------- MATRIZ DE  12 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 12
+El mejor Trip (recorrido) esperado: [ 0 4 11 2 6 1 9 8 3 7 10 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 181
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 181478779 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.181478779 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_12.txt
+
+
+
+---------- MATRIZ DE  12 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 12
+El mejor Trip (recorrido) esperado: [ 0 4 11 2 6 1 9 8 3 7 10 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 181
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 107385161 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.107385161 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_12.txt
+
+
+
+---------- MATRIZ DE  12 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 12
+El mejor Trip (recorrido) esperado: [ 0 4 11 2 6 1 9 8 3 7 10 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 181
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 85410495 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.085410495 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_12.txt
+
+
+
+---------- MATRIZ DE  12 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 12
+El mejor Trip (recorrido) esperado: [ 0 4 11 2 6 1 9 8 3 7 10 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 181
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 70658261 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.070658261 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_12.txt
+
+
+
+---------- MATRIZ DE  12 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 12
+El mejor Trip (recorrido) esperado: [ 0 4 11 2 6 1 9 8 3 7 10 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 181
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 70549035 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.070549035 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_12.txt
+
+
+
+---------- MATRIZ DE  12 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 12
+El mejor Trip (recorrido) esperado: [ 0 4 11 2 6 1 9 8 3 7 10 5 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 181
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 70336102 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.070336102 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  13 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 13
+El mejor Trip (recorrido) esperado: [ 0 6 4 9 11 8 5 10 3 1 7 2 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 163
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 353328991 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.353328991 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_13.txt
+
+
+
+---------- MATRIZ DE  13 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 13
+El mejor Trip (recorrido) esperado: [ 0 6 4 9 11 8 5 10 3 1 7 2 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 163
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 254277834 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.254277834 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_13.txt
+
+
+
+---------- MATRIZ DE  13 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 13
+El mejor Trip (recorrido) esperado: [ 0 6 4 9 11 8 5 10 3 1 7 2 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 163
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 154529792 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.154529792 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_13.txt
+
+
+
+---------- MATRIZ DE  13 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 13
+El mejor Trip (recorrido) esperado: [ 0 6 4 9 11 8 5 10 3 1 7 2 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 163
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 153332544 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.153332544 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_13.txt
+
+
+
+---------- MATRIZ DE  13 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 13
+El mejor Trip (recorrido) esperado: [ 0 6 4 9 11 8 5 10 3 1 7 2 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 163
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 127681661 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.127681661 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_13.txt
+
+
+
+---------- MATRIZ DE  13 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 13
+El mejor Trip (recorrido) esperado: [ 0 6 4 9 11 8 5 10 3 1 7 2 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 163
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 134967631 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.134967631 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_13.txt
+
+
+
+---------- MATRIZ DE  13 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 13
+El mejor Trip (recorrido) esperado: [ 0 6 4 9 11 8 5 10 3 1 7 2 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 163
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 130709572 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.130709572 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  14 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 14
+El mejor Trip (recorrido) esperado: [ 0 1 11 6 4 2 13 10 12 9 5 8 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 185
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 2470290929 nanosegundos (ns)
+El tiempo tomado es: 0.000002 milisegundos (ms)
+El tiempo tomado es: 2.470290929 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_14.txt
+
+
+
+---------- MATRIZ DE  14 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 14
+El mejor Trip (recorrido) esperado: [ 0 1 11 6 4 2 13 10 12 9 5 8 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 185
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 945663996 nanosegundos (ns)
+El tiempo tomado es: 0.000001 milisegundos (ms)
+El tiempo tomado es: 0.945663996 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_14.txt
+
+
+
+---------- MATRIZ DE  14 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 14
+El mejor Trip (recorrido) esperado: [ 0 1 11 6 4 2 13 10 12 9 5 8 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 185
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 580118683 nanosegundos (ns)
+El tiempo tomado es: 0.000001 milisegundos (ms)
+El tiempo tomado es: 0.580118683 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_14.txt
+
+
+
+---------- MATRIZ DE  14 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 14
+El mejor Trip (recorrido) esperado: [ 0 1 11 6 4 2 13 10 12 9 5 8 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 185
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 354826357 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.354826357 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_14.txt
+
+
+
+---------- MATRIZ DE  14 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 14
+El mejor Trip (recorrido) esperado: [ 0 1 11 6 4 2 13 10 12 9 5 8 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 185
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 324649434 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.324649434 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_14.txt
+
+
+
+---------- MATRIZ DE  14 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 14
+El mejor Trip (recorrido) esperado: [ 0 1 11 6 4 2 13 10 12 9 5 8 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 185
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 321024419 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.321024419 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_14.txt
+
+
+
+---------- MATRIZ DE  14 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 14
+El mejor Trip (recorrido) esperado: [ 0 1 11 6 4 2 13 10 12 9 5 8 3 7 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 185
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 321801579 nanosegundos (ns)
+El tiempo tomado es: 0.000000 milisegundos (ms)
+El tiempo tomado es: 0.321801579 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  15 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 15
+El mejor Trip (recorrido) esperado: [ 0 13 7 12 9 10 5 11 3 4 6 2 1 8 14 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 223
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 14621343863 nanosegundos (ns)
+El tiempo tomado es: 0.000015 milisegundos (ms)
+El tiempo tomado es: 14.621343863 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_15.txt
+
+
+
+---------- MATRIZ DE  15 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 15
+El mejor Trip (recorrido) esperado: [ 0 13 7 12 9 10 5 11 3 4 6 2 1 8 14 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 223
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 9367520716 nanosegundos (ns)
+El tiempo tomado es: 0.000009 milisegundos (ms)
+El tiempo tomado es: 9.367520716 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_15.txt
+
+
+
+---------- MATRIZ DE  15 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 15
+El mejor Trip (recorrido) esperado: [ 0 13 7 12 9 10 5 11 3 4 6 2 1 8 14 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 223
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 8368689837 nanosegundos (ns)
+El tiempo tomado es: 0.000008 milisegundos (ms)
+El tiempo tomado es: 8.368689837 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_15.txt
+
+
+
+---------- MATRIZ DE  15 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 15
+El mejor Trip (recorrido) esperado: [ 0 13 7 12 9 10 5 11 3 4 6 2 1 8 14 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 223
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 5679665743 nanosegundos (ns)
+El tiempo tomado es: 0.000006 milisegundos (ms)
+El tiempo tomado es: 5.679665743 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_15.txt
+
+
+
+---------- MATRIZ DE  15 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 15
+El mejor Trip (recorrido) esperado: [ 0 13 7 12 9 10 5 11 3 4 6 2 1 8 14 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 223
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 5270074437 nanosegundos (ns)
+El tiempo tomado es: 0.000005 milisegundos (ms)
+El tiempo tomado es: 5.270074437 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_15.txt
+
+
+
+---------- MATRIZ DE  15 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 15
+El mejor Trip (recorrido) esperado: [ 0 13 7 12 9 10 5 11 3 4 6 2 1 8 14 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 223
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 5253818189 nanosegundos (ns)
+El tiempo tomado es: 0.000005 milisegundos (ms)
+El tiempo tomado es: 5.253818189 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_15.txt
+
+
+
+---------- MATRIZ DE  15 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 15
+El mejor Trip (recorrido) esperado: [ 0 13 7 12 9 10 5 11 3 4 6 2 1 8 14 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 223
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 5282090189 nanosegundos (ns)
+El tiempo tomado es: 0.000005 milisegundos (ms)
+El tiempo tomado es: 5.282090189 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  16 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 16
+El mejor Trip (recorrido) esperado: [ 0 10 12 9 2 7 3 5 4 1 6 14 8 15 13 11 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 206
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 54912869195 nanosegundos (ns)
+El tiempo tomado es: 0.000055 milisegundos (ms)
+El tiempo tomado es: 54.912869195 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_16.txt
+
+
+
+---------- MATRIZ DE  16 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 16
+El mejor Trip (recorrido) esperado: [ 0 10 12 9 2 7 3 5 4 1 6 14 8 15 13 11 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 206
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 41495299654 nanosegundos (ns)
+El tiempo tomado es: 0.000041 milisegundos (ms)
+El tiempo tomado es: 41.495299654 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_16.txt
+
+
+
+---------- MATRIZ DE  16 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 16
+El mejor Trip (recorrido) esperado: [ 0 10 12 9 2 7 3 5 4 1 6 14 8 15 13 11 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 206
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 25223365673 nanosegundos (ns)
+El tiempo tomado es: 0.000025 milisegundos (ms)
+El tiempo tomado es: 25.223365673 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_16.txt
+
+
+
+---------- MATRIZ DE  16 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 16
+El mejor Trip (recorrido) esperado: [ 0 10 12 9 2 7 3 5 4 1 6 14 8 15 13 11 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 206
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 14541930771 nanosegundos (ns)
+El tiempo tomado es: 0.000015 milisegundos (ms)
+El tiempo tomado es: 14.541930771 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_16.txt
+
+
+
+---------- MATRIZ DE  16 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 16
+El mejor Trip (recorrido) esperado: [ 0 10 12 9 2 7 3 5 4 1 6 14 8 15 13 11 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 206
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 11184778428 nanosegundos (ns)
+El tiempo tomado es: 0.000011 milisegundos (ms)
+El tiempo tomado es: 11.184778428 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_16.txt
+
+
+
+---------- MATRIZ DE  16 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 16
+El mejor Trip (recorrido) esperado: [ 0 10 12 9 2 7 3 5 4 1 6 14 8 15 13 11 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 206
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 11182926242 nanosegundos (ns)
+El tiempo tomado es: 0.000011 milisegundos (ms)
+El tiempo tomado es: 11.182926242 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_16.txt
+
+
+
+---------- MATRIZ DE  16 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 16
+El mejor Trip (recorrido) esperado: [ 0 10 12 9 2 7 3 5 4 1 6 14 8 15 13 11 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 206
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: true
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 11238497682 nanosegundos (ns)
+El tiempo tomado es: 0.000011 milisegundos (ms)
+El tiempo tomado es: 11.238497682 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+
+---------- MATRIZ DE  17 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 17
+El mejor Trip (recorrido) esperado: [ 0 1 9 6 14 2 10 8 7 11 15 3 16 13 4 5 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 329
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 1004329822768 nanosegundos (ns)
+El tiempo tomado es: 0.001004 milisegundos (ms)
+El tiempo tomado es: 1004.329822768 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_17.txt
+
+
+
+---------- MATRIZ DE  17 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 17
+El mejor Trip (recorrido) esperado: [ 0 1 9 6 14 2 10 8 7 11 15 3 16 13 4 5 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 329
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 633072578499 nanosegundos (ns)
+El tiempo tomado es: 0.000633 milisegundos (ms)
+El tiempo tomado es: 633.072578499 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_17.txt
+
+
+
+---------- MATRIZ DE  17 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 17
+El mejor Trip (recorrido) esperado: [ 0 1 9 6 14 2 10 8 7 11 15 3 16 13 4 5 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 329
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 354748712762 nanosegundos (ns)
+El tiempo tomado es: 0.000355 milisegundos (ms)
+El tiempo tomado es: 354.748712762 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_17.txt
+
+
+
+---------- MATRIZ DE  17 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 17
+El mejor Trip (recorrido) esperado: [ 0 1 9 6 14 2 10 8 7 11 15 3 16 13 4 5 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 329
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 209745580779 nanosegundos (ns)
+El tiempo tomado es: 0.000210 milisegundos (ms)
+El tiempo tomado es: 209.745580779 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_17.txt
+
+
+
+---------- MATRIZ DE  17 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 17
+El mejor Trip (recorrido) esperado: [ 0 1 9 6 14 2 10 8 7 11 15 3 16 13 4 5 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 329
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 155201959344 nanosegundos (ns)
+El tiempo tomado es: 0.000155 milisegundos (ms)
+El tiempo tomado es: 155.201959344 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_17.txt
+
+
+
+---------- MATRIZ DE  17 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 17
+El mejor Trip (recorrido) esperado: [ 0 1 9 6 14 2 10 8 7 11 15 3 16 13 4 5 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 329
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 154532946236 nanosegundos (ns)
+El tiempo tomado es: 0.000155 milisegundos (ms)
+El tiempo tomado es: 154.532946236 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_17.txt
+
+
+
+---------- MATRIZ DE  17 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 17
+El mejor Trip (recorrido) esperado: [ 0 1 9 6 14 2 10 8 7 11 15 3 16 13 4 5 12 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 329
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 155367938777 nanosegundos (ns)
+El tiempo tomado es: 0.000155 milisegundos (ms)
+El tiempo tomado es: 155.367938777 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  18 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 18
+El mejor Trip (recorrido) esperado: [ 0 11 15 5 2 8 10 16 12 17 9 3 7 14 1 6 4 13 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 203
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 119070107259 nanosegundos (ns)
+El tiempo tomado es: 0.000119 milisegundos (ms)
+El tiempo tomado es: 119.070107259 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_18.txt
+
+
+
+---------- MATRIZ DE  18 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 18
+El mejor Trip (recorrido) esperado: [ 0 11 15 5 2 8 10 16 12 17 9 3 7 14 1 6 4 13 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 203
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 95232533521 nanosegundos (ns)
+El tiempo tomado es: 0.000095 milisegundos (ms)
+El tiempo tomado es: 95.232533521 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_18.txt
+
+
+
+---------- MATRIZ DE  18 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 18
+El mejor Trip (recorrido) esperado: [ 0 11 15 5 2 8 10 16 12 17 9 3 7 14 1 6 4 13 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 203
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 49027786126 nanosegundos (ns)
+El tiempo tomado es: 0.000049 milisegundos (ms)
+El tiempo tomado es: 49.027786126 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_18.txt
+
+
+
+---------- MATRIZ DE  18 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 18
+El mejor Trip (recorrido) esperado: [ 0 11 15 5 2 8 10 16 12 17 9 3 7 14 1 6 4 13 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 203
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 27365070210 nanosegundos (ns)
+El tiempo tomado es: 0.000027 milisegundos (ms)
+El tiempo tomado es: 27.365070210 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_18.txt
+
+
+
+---------- MATRIZ DE  18 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 18
+El mejor Trip (recorrido) esperado: [ 0 11 15 5 2 8 10 16 12 17 9 3 7 14 1 6 4 13 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 203
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 21827716451 nanosegundos (ns)
+El tiempo tomado es: 0.000022 milisegundos (ms)
+El tiempo tomado es: 21.827716451 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_18.txt
+
+
+
+---------- MATRIZ DE  18 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 18
+El mejor Trip (recorrido) esperado: [ 0 11 15 5 2 8 10 16 12 17 9 3 7 14 1 6 4 13 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 203
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 20876117384 nanosegundos (ns)
+El tiempo tomado es: 0.000021 milisegundos (ms)
+El tiempo tomado es: 20.876117384 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_18.txt
+
+
+
+---------- MATRIZ DE  18 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 18
+El mejor Trip (recorrido) esperado: [ 0 11 15 5 2 8 10 16 12 17 9 3 7 14 1 6 4 13 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 203
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 21016832913 nanosegundos (ns)
+El tiempo tomado es: 0.000021 milisegundos (ms)
+El tiempo tomado es: 21.016832913 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
+---------- MATRIZ DE  19 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 19
+El mejor Trip (recorrido) esperado: [ 0 4 12 2 17 8 6 5 7 13 10 16 1 11 18 3 14 9 15 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 210
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 1456377600419 nanosegundos (ns)
+El tiempo tomado es: 0.001456 milisegundos (ms)
+El tiempo tomado es: 1456.377600419 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 1
+[maor.roizman@khipu src]$ ./parallel 2
+Archivo leido: ../data/matrix_19.txt
+
+
+
+---------- MATRIZ DE  19 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 19
+El mejor Trip (recorrido) esperado: [ 0 4 12 2 17 8 6 5 7 13 10 16 1 11 18 3 14 9 15 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 210
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 904753731037 nanosegundos (ns)
+El tiempo tomado es: 0.000905 milisegundos (ms)
+El tiempo tomado es: 904.753731037 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 2
+[maor.roizman@khipu src]$ ./parallel 4
+Archivo leido: ../data/matrix_19.txt
+
+
+
+---------- MATRIZ DE  19 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 19
+El mejor Trip (recorrido) esperado: [ 0 4 12 2 17 8 6 5 7 13 10 16 1 11 18 3 14 9 15 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 210
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 552639912782 nanosegundos (ns)
+El tiempo tomado es: 0.000553 milisegundos (ms)
+El tiempo tomado es: 552.639912782 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 4
+[maor.roizman@khipu src]$ ./parallel 8
+Archivo leido: ../data/matrix_19.txt
+
+
+
+---------- MATRIZ DE  19 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 19
+El mejor Trip (recorrido) esperado: [ 0 4 12 2 17 8 6 5 7 13 10 16 1 11 18 3 14 9 15 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 210
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 415078123420 nanosegundos (ns)
+El tiempo tomado es: 0.000415 milisegundos (ms)
+El tiempo tomado es: 415.078123420 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 8
+[maor.roizman@khipu src]$ ./parallel 16
+Archivo leido: ../data/matrix_19.txt
+
+
+
+---------- MATRIZ DE  19 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 19
+El mejor Trip (recorrido) esperado: [ 0 4 12 2 17 8 6 5 7 13 10 16 1 11 18 3 14 9 15 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 210
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 265124325366 nanosegundos (ns)
+El tiempo tomado es: 0.000265 milisegundos (ms)
+El tiempo tomado es: 265.124325366 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 16
+[maor.roizman@khipu src]$ ./parallel 32
+Archivo leido: ../data/matrix_19.txt
+
+
+
+---------- MATRIZ DE  19 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 19
+El mejor Trip (recorrido) esperado: [ 0 4 12 2 17 8 6 5 7 13 10 16 1 11 18 3 14 9 15 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 210
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 251313014462 nanosegundos (ns)
+El tiempo tomado es: 0.000251 milisegundos (ms)
+El tiempo tomado es: 251.313014462 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 32
+[maor.roizman@khipu src]$ ./parallel 40
+Archivo leido: ../data/matrix_19.txt
+
+
+
+---------- MATRIZ DE  19 NODOS ----------
+
+---------- RESULTADOS ESPERADOS ----------
+El número de nodos (ciudades) es: 19
+El mejor Trip (recorrido) esperado: [ 0 4 12 2 17 8 6 5 7 13 10 16 1 11 18 3 14 9 15 0 ]
+El mejor totalCosto (costo mínimo de viaje) esperado: 210
+
+------------ VALIDACIONES ------------
+El Trip obtenido es correcto: false
+El totalCost es correcto: true
+
+--------------- TIEMPOS ---------------
+El tiempo tomado es: 245370724803 nanosegundos (ns)
+El tiempo tomado es: 0.000245 milisegundos (ms)
+El tiempo tomado es: 245.370724803 segundos (s)
+
+------------ THREADS ------------
+Número de threads: 40
+
