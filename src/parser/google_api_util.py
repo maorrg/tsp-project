@@ -17,16 +17,30 @@ total_cost_matrix = []
 
 data = {}
 
+cities = ["Lima Centro", "Lince", "Miraflores", "Barranco", "Rimac",
+              "Los Olivos", "La Molina", "La Victoria", "Magdalena", "San Borja"]
+
 def generate_distance_matrix():
     global data
-    cities = ["Lima Centro", "Lince", "Miraflores", "Barranco", "Rimac",
-              "Los Olivos", "La Molina", "La Victoria", "Magdalena", "San Borja"]
+    cities = user_districts_selection()
     cities_url = [city.replace(" ", "+") for city in cities]
     cities_url = [f"{city}+Lima+District+Peru" for city in cities_url]
     origins = "|".join(cities_url)
     url = f"https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins={origins}&destinations={origins}&key={GOOGLE_API_KEY}"
     response = requests.get(url)
     data = json.loads(response.text)
+
+def user_districts_selection():
+    print("------ SELECCION DE CIUDADES ------")
+    n = input("Ingrese el número de distritos a considerar: ")
+    print("Seleccione los distritos que desea visitar: ")
+    selected_districts = []
+    for district in cities:
+        print(district + "(" + str(cities.index(district)) + ")")
+    for i in range(0,int(n)):
+        district_index = int(input(f"> Indice del distrito {str(i)}: "))
+        selected_districts.append(cities[district_index])
+    return selected_districts
 
 def make_matrix_symetric(matrix):
     sym_matrix = matrix
@@ -100,6 +114,7 @@ def load_matrix():
     other_cost_matrix = read_matrix_from_file("other_cost_matrix.txt")
 
 def ask_user_for_variables_weights():
+    print("\n\n------ SELECCION DE VARIABLES DE COSTO ADICIONALES ------")
     print("Ingrese el factor / peso de:")
     distance_weight = float(input("-> Distancia: "))
     time_weight = float(input("-> Tiempo: "))
